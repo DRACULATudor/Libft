@@ -1,1 +1,1 @@
-                                        MY VERY FIRST LIBRARY 
+                                        MY FIRST LIBRARY 
