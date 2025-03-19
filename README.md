@@ -76,3 +76,7 @@ Run the program:
    - **ft_strtrim**: Removes leading and trailing spaces from a string.
    - **ft_split**: Splits a string into an array of strings, using a delimiter.
    - **ft_strndup**: Duplicates a string up to a specified number of characters.
+
+## Conclusion
+
+The libft project is an excellent opportunity to learn and practice the core skills of C programming, especially memory management and string handling. By the end of this project, you'll have your own custom library of C functions that can be reused across other projects. The understanding of low-level operations gained here will also be helpful in optimizing your code and working on future C projects.
